@@ -1,0 +1,9 @@
+path: /home/jorge/Desktop/tdt17/new_data
+train: images/train  # train images
+val: images/val  # validation images
+labels:
+  train: labels/train  # train labels
+  val: labels/val  # validation labels
+
+names:
+  0: cancer
